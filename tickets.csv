@@ -1,0 +1,76 @@
+message,category
+I was charged twice for my subscription,Billing
+My payment failed but money left my account,Billing
+I need a refund for an incorrect charge,Billing
+The invoice amount is wrong,Billing
+I cannot log into my account,Account Access
+I forgot my password and cannot reset it,Account Access
+The verification code is not arriving,Account Access
+The app crashes whenever I open it,Technical Issue
+The website is showing an error message,Technical Issue
+The software is running very slowly,Technical Issue
+I cannot upload any files,Technical Issue
+I want to cancel my subscription,Cancellation
+Please close my account,Cancellation
+How do I stop my monthly plan,Cancellation
+Can you explain how this service works,General Enquiry
+Where can I find the user guide,General Enquiry
+I would like more information about pricing,General Enquiry
+I was billed after cancelling my subscription,Billing
+My credit card was charged incorrectly,Billing
+I have not received my payment receipt,Billing
+Why was I charged an extra fee,Billing
+My invoice shows duplicate charges,Billing
+I need a copy of my invoice,Billing
+I cannot update my payment method,Billing
+The discount was not applied to my bill,Billing
+My account has been locked,Account Access
+I am unable to sign in to the portal,Account Access
+My username is not being recognised,Account Access
+I cannot access my dashboard,Account Access
+The password reset link does not work,Account Access
+I am not receiving login emails,Account Access
+My account was suspended unexpectedly,Account Access
+Two-factor authentication is failing,Account Access
+The mobile app freezes on startup,Technical Issue
+I keep getting a server error,Technical Issue
+The page will not load properly,Technical Issue
+The application closes unexpectedly,Technical Issue
+I am seeing a blank screen after logging in,Technical Issue
+Downloads are not working,Technical Issue
+The search function is broken,Technical Issue
+The system is responding very slowly,Technical Issue
+I cannot save my changes,Technical Issue
+The website is unavailable,Technical Issue
+Cancel my membership immediately,Cancellation
+I no longer want this service,Cancellation
+Please terminate my subscription,Cancellation
+How can I delete my account,Cancellation
+I want to stop future payments,Cancellation
+Please remove my profile,Cancellation
+End my plan at the end of this month,Cancellation
+I wish to unsubscribe,Cancellation
+What features are included in this plan,General Enquiry
+Do you offer a free trial,General Enquiry
+How much does the premium package cost,General Enquiry
+Can you tell me more about your services,General Enquiry
+Where can I read the documentation,General Enquiry
+What are your support hours,General Enquiry
+Do you have a knowledge base,General Enquiry
+How do I get started with your product,General Enquiry
+Is there a training guide available,General Enquiry
+What subscription plans do you offer,General Enquiry
+My bill does not include the promised discount,Billing
+The amount on my invoice is incorrect,Billing
+I was charged too much,Billing
+My promotional code was not applied,Billing
+I was billed after cancelling,Billing
+I need help with an unexpected charge,Billing
+The app keeps crashing,Technical Issue
+The website will not load,Technical Issue
+I receive an error when uploading a file,Technical Issue
+The software freezes during startup,Technical Issue
+The page is not responding,Technical Issue
+
+
+
